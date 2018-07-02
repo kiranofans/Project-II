@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hideShow_btn">hide and show button</string>
+
+</resources>
